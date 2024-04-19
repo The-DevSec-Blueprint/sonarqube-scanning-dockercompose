@@ -1,6 +1,6 @@
 # SonarQube Scanning using Docker Compose
 
-[![YouTube Video](https://img.youtube.com/vi/UoAfU5iAhl0/0.jpg)](https://youtu.be/UoAfU5iAhl0)
+[![YouTube Video](./thumbnail.svg)](https://youtu.be/UoAfU5iAhl0)
 >**NOTE**: This image above is clickable, click it to look at the YouTube video!
 
 ## What is SonarQube?
